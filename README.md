@@ -95,4 +95,5 @@ python -c "from aveva_mcp_server import mcp; print('Server ready!')"
 
 ---
 
-**Citation:** Liang, Jingkang, Niklas Groll, and Gürkan Sin. "Large Language Model Agent for User-friendly Chemical Process Simulations." *arXiv preprint arXiv:2601.11650* (2026).
+## Citation
+[Liang, Jingkang, Niklas Groll, and Gürkan Sin. "Large Language Model Agent for User-friendly Chemical Process Simulations." *arXiv preprint arXiv:2601.11650* (2026).](https://arxiv.org/abs/2601.11650)
