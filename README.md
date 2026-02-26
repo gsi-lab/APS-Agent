@@ -1,6 +1,6 @@
-# AVEVA SimCentral MCP Server (Compiled Distribution)
+# AVEVA MCP Server (Compiled Distribution)
 
-A **Model Context Protocol (MCP)** server that exposes AVEVA SimCentral simulation tools to AI applications like Claude Desktop, Cursor, and other MCP-compatible clients.
+A **Model Context Protocol (MCP)** server that exposes AVEVA process simulation tools to AI applications like Claude Desktop, Cursor, and other MCP-compatible clients.
 
 
 ## ⚠️ Requirements
