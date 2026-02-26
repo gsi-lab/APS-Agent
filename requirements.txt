@@ -1,0 +1,25 @@
+# Core MCP dependencies
+fastmcp>=2.0.0
+pydantic>=2.0.0
+typing-extensions>=4.5.0
+
+# Build dependencies (only needed for compiling from source)
+# cython
+
+# AVEVA SimCentral connection (must be installed separately)
+# Note: The following dependencies are AVEVA-specific and not available via pip.
+# They must be installed from the AVEVA Process Simulation SDK:
+#
+# Required AVEVA components:
+# - simcentralconnect (AVEVA Python SDK)
+# - pythonnet (for .NET interop)
+# - System (from pythonnet/AVEVA)
+# 
+# Installation instructions:
+# 1. Install AVEVA Process Simulation
+# 2. Install AVEVA SDK and Python components
+# 3. Ensure Python can access AVEVA .NET assemblies
+# 4. Configure PYTHONPATH to include AVEVA Python modules if needed
+#
+# To verify AVEVA installation, run:
+# python -c "import simcentralconnect; import clr; print('AVEVA dependencies OK')"
