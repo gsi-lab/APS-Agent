@@ -52,6 +52,9 @@ Add the following to your Claude Desktop configuration file. Update the paths to
   }
 }
 ```
+![Demo of Claude Desktop integration](./demo_claudedesktop.png)
+
+You can see the claude agent use the tool "Aps connect" and "Sim create" for the task.
 
 ### 4. Verify Installation
 
