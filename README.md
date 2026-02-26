@@ -88,7 +88,7 @@ python -c "from aveva_mcp_server import mcp; print('Server ready!')"
 
 ## 📚 Learn More
 
-- [Model Context Protocol Specification](https://spec.modelcontextprotocol.io/)
+- [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [FastMCP Documentation](https://github.com/jlowin/fastmcp)
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 - [AVEVA Process Simulation Documentation](https://aveva.com)
