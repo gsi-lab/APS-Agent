@@ -64,12 +64,6 @@ Quit the claude desktop completely from the background, and restart it, the MCP 
 
 You can see the claude agent used the tools "Aps connect" and "Sim create" for the task.
 
-### 4. Verify Installation
-
-```bash
-python -c "from aveva_mcp_server import mcp; print('Server ready!')"
-```
-
 ## 📁 Package Contents
 
 | File | Description |
