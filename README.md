@@ -35,8 +35,15 @@ python start_aveva_mcp_server.py sse --port 8000
 # Streamable HTTP transport (for modern clients)
 python start_aveva_mcp_server.py http --port 8000
 ```
+If you run successfully, you can stop the server and move on to next step.
 
-### 3. Configure Claude Desktop
+### 3. Configure Claude Desktop (MCP client)
+You can find a detailed tutorial on how to locate and edit your Claude Desktop configuration file in the official documentation: [Connect to local MCP servers](https://modelcontextprotocol.io/docs/develop/connect-local-servers)
+For other MCP clients, please refer to their respective documentation on configuring local MCP servers. Although the interfaces may differ, the core logic remains the same:
+you need to specify:
+
+- Specify the **Python executable** that will run the server  
+- Specify the **path to the script** that launches your MCP server  
 
 Add the following to your Claude Desktop configuration file. Update the paths to match your environment:
 
