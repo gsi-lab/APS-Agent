@@ -59,6 +59,7 @@ Add the following to your Claude Desktop configuration file. Update the paths to
   }
 }
 ```
+Quit the claude desktop completely from the background, and restart it, the MCP tools will be automatically loaded when claude desktop starts. Try to ask something and explicitly mentioning using AVEVA tools.
 ![Demo of Claude Desktop integration](./demo_claudedesktop.png)
 
 You can see the claude agent use the tool "Aps connect" and "Sim create" for the task.
