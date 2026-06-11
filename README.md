@@ -98,4 +98,4 @@ You can see the claude agent used the tools "Aps connect" and "Sim create" for t
 ---
 
 ## Citation
-[Liang, Jingkang, Niklas Groll, and Gürkan Sin. "Large Language Model Agent for User-friendly Chemical Process Simulations." *arXiv preprint arXiv:2601.11650* (2026).](https://arxiv.org/abs/2601.11650)
+[Liang, Jingkang, Niklas Groll, and Gürkan Sin. "Large Language Model Agent for User-friendly Chemical Process Simulations."(2026).](https://www.sciencedirect.com/science/article/pii/S2772508126000256)
